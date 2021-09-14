@@ -498,6 +498,11 @@ button {
   text-align: center;
 }
 
+.text-center p {
+  display: inline-block;
+  text-align: left;
+}
+
 .text-left {
   text-align: left;
 }
