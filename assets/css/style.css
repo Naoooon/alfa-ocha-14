@@ -495,7 +495,11 @@ button {
 * Utility
 ********************/
 .text-center {
-  text-align: center;
+ display: inline-block;
+  text-align: left;
+}
+.hid{
+text-align: center;
 }
 
 .text-left {
