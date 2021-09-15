@@ -532,7 +532,7 @@ text-align: center;
             width: 80px;
             height: 80px;
             margin: 0 auto;
-            background: url(assets/images/pu.png) no-repeat center center;
+            background: url(pu.png) no-repeat center center;
             background-size: contain;
         }
 
