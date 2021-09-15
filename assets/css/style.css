@@ -532,12 +532,12 @@ text-align: center;
             width: 80px;
             height: 80px;
             margin: 0 auto;
-            background: url(assets/images/764.png) no-repeat center center;
+            background: url(assets/images/sai764.png) no-repeat center center;
             background-size: contain;
         }
 
         .play .audio_button {
-            background-image: url(assets/images/764.png);
+            background-image: url(assets/images/sai764.png);
         }
 
 
