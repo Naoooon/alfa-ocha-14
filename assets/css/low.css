@@ -1,0 +1,37 @@
+#loading {
+    width: 100vw;
+    height: 100vh;
+    transition: all 1s;
+    background-color: #58CE91;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+  }
+  .spinner {
+    text-align: center;
+    margin-top: 10%;
+  }
+
+
+
+
+
+.frog{
+    transform-origin: center bottom;
+    animation: yurayura 2s linear infinite;
+}
+
+@keyframes yurayura {
+  0% , 100%{
+      transform: rotate(10deg);
+  }
+  50%{
+      transform: rotate(-10deg);
+  }
+}
+
+.loaded {
+    opacity: 0;
+    visibility: hidden;
+  }
