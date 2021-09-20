@@ -176,7 +176,7 @@ button {
   content: '';
   width: calc(100% - 60px);
   height: 7px;
-  background-color: #fcee21;
+  background-color: #8b0000;
   position: absolute;
   top: -10px;
   left: 30px;
@@ -265,7 +265,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: #8b0000;
   padding-left: 1rem;
   padding-right: 1rem;
 }
