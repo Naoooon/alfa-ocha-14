@@ -24,8 +24,9 @@ body {
   text-decoration: none;
   border: none;
   list-style: none;
-  color: #000;
   margin: 0;
+  background: linear-gradient(45deg, #10100E, #A72F37);
+color:#cccccc;
 }
 
 .image__container img {
