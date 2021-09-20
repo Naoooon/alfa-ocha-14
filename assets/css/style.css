@@ -240,7 +240,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #8b0000;
+  background-color: linear-gradient(180deg, #10100E, #A72F37);
 }
 
 .bg-color--subcolor {
